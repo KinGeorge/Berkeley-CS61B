@@ -4,8 +4,8 @@
  */
 public class DebugExercise2 {
     /** Returns the max of a and b. Do not step into this function. 
-      * This function may have a bug, but if it does, you should find it
-      * by stepping over, not into. */
+     * This function may have a bug, but if it does, you should find it
+     * by stepping over, not into. */
     public static int max(int a, int b) {
         int w = (b - a) >> 31;
         /* If you're stepping into this function, click the
@@ -18,8 +18,8 @@ public class DebugExercise2 {
 
 
     /** Returns the sum of a and b. Do not step into this function. 
-      * This function may have a bug, but if it does, you should find it
-      * by stepping over, not into. */    
+     * This function may have a bug, but if it does, you should find it
+     * by stepping over, not into. */
     public static int add(int a, int b) {
         int x = a, y = b;
         /* If you're stepping into this function, click the
