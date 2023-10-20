@@ -5,8 +5,8 @@ Course Website：https://sp18.datastructur.es
 Assignments: In the SP18, there are 14 Labs, 10 Homework and 3 Projects. Please refer to the course website for specific requirements.
 
 Status:
-- [ ] Lab 1
-- [ ] Lab 2
+
+- [x] Lab 2
 - [ ] Lab 3
 - [ ] Lab 4
 - [ ] Lab 9
